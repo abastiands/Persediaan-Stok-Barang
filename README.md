@@ -63,3 +63,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Persediaan-Stok-Barang
+
+<h2>Tentang Website</h2>
+<p>Website ini dibuat pada saat saya SMK magang di PT Mitra Bisnis Informatika. Disana saya belajar dasar pemrograman seperti HTML, CSS, Javascript, PHP, Laravel, dan MySQL.</p>
