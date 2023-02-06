@@ -1,3 +1,11 @@
+# Persediaan-Stok-Barang
+
+<h2>Tentang Website</h2>
+<p>Website ini dibuat pada saat saya SMK magang di PT Mitra Bisnis Informatika. Disana saya belajar dasar pemrograman seperti HTML, CSS, Javascript, PHP, Laravel, dan MySQL.</p>
+
+<h2>Cara Menjalankan Aplikasi</h2>
+<code>php artisan serve</code>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,7 +70,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Persediaan-Stok-Barang
-
-<h2>Tentang Website</h2>
-<p>Website ini dibuat pada saat saya SMK magang di PT Mitra Bisnis Informatika. Disana saya belajar dasar pemrograman seperti HTML, CSS, Javascript, PHP, Laravel, dan MySQL.</p>
